@@ -12,7 +12,7 @@ App Screenshot
 Run Locally
 Clone the project
 
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone (https://github.com/Dharma2005/Ecommerce-Website)
 Go to the project directory
 
   cd React_E-Commerce
